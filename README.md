@@ -6,11 +6,8 @@
 
 
 <br/>
-### <a name="tool-introduce"></a> 置题工具
+### <a name="tool-introduce"></a>置题工具
 <br/>
-
-
-### 置题工具
 
 
 > 工具地址：http://101.231.106.182:5000/#/
