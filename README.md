@@ -6,7 +6,7 @@
 
 
 <br/>
-### <a name="tool-introduce"></a> 置题工具介绍
+### <a name="tool-introduce"></a>置题工具介绍
 <br/>
 
 ### <a name=engine></a> 1. 置题工具介绍
@@ -16,10 +16,10 @@
 
 
 <br/>
-### <a name="JSGF"></a> JSGF语法编写注意事项
+### <a name="JSGF"></a>JSGF语法编写注意事项
 <br/>
 
 
 <br/>
-### <a name="retell"></a> 口头作文语法编写注意事项
+### <a name="retell"></a>口头作文语法编写注意事项
 <br/>
